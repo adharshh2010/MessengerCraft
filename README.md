@@ -81,8 +81,8 @@ bun run dev
 - [ ] Desktop applications
 
 > Project maybe delayed cause of solo work along with studys without supports
-- [ ] Expected alpha release data: 2026 - 27
-- [ ] Expected alpha for mobile: 2027 - 28
+- [ ] Expected alpha release data: 2028 - 29
+- [ ] Expected alpha for mobile: 2029 - 30
 
 ## 🤝 Contributing
 
